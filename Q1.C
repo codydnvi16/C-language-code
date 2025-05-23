@@ -1,3 +1,4 @@
+// QUICK SORT
 #include<stdio.h>
 #include<conio.h>
 void quick(int a[] ,int low,int high);
